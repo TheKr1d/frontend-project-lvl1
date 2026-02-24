@@ -8,4 +8,6 @@ export const hello = () => {
     const helloString = `Hello, ${name}!`
 
     console.log(helloString)
+
+    return name
 };
