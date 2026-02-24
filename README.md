@@ -17,3 +17,9 @@ Open in terminal: `brain-even`
 Open in terminal: `brain-calc`
 
 [![asciicast](https://asciinema.org/a/0CbIX6YAJK6taZgO.svg)](https://asciinema.org/a/0CbIX6YAJK6taZgO)
+
+
+## Brain-calc:
+Open in terminal: `brain-gcd`
+
+[![asciicast](https://asciinema.org/a/LHMn3ThzEC386b1t.svg)](https://asciinema.org/a/LHMn3ThzEC386b1t)
