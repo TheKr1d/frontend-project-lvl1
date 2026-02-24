@@ -7,8 +7,13 @@
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=TheKr1d_frontend-project-lvl1)
 
 
-Brain-even:
+## Brain-even:
 
 Open in terminal: `brain-even`
 
 [![asciicast](https://asciinema.org/a/kJ7rFwwC5z57a1CH.svg)](https://asciinema.org/a/kJ7rFwwC5z57a1CH)
+
+## Brain-calc:
+Open in terminal: `brain-calc`
+
+[![asciicast](https://asciinema.org/a/0CbIX6YAJK6taZgO.svg)](https://asciinema.org/a/0CbIX6YAJK6taZgO)
