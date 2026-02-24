@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import _ from 'lodash';
-import { engine } from './engine.js';
+import { engine } from '../../src/index.js';
 import { rounds } from '../config/game-settings.js';
 
 const calculate = (numberOne, numberTwo, operator) => {
