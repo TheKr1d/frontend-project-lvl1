@@ -1,1 +1,1 @@
-export const rounds = 3;
+export const rounds = 3
