@@ -99,3 +99,25 @@ Congratulations, Sam!
 
 ### Demo Video
 [![asciicast](https://asciinema.org/a/Mh4JviJmKaPF52aY.svg)](https://asciinema.org/a/Mh4JviJmKaPF52aY)
+
+---
+
+## Brain Prime Game
+**Open**: `brain-prime`
+
+**Objective**: Determine if a given number is prime.
+
+**Rules**: Answer **"yes"** if the number is prime, **"no"** otherwise.
+
+### Example
+
+```
+Question: 7 → yes ✓
+Question: 4 → no ✓
+Question: 11 → yes ✓
+Congratulations, Sam!
+```
+
+### Demo Video
+
+[![asciicast](https://asciinema.org/a/kKNH6seYF7YPQysW.svg)](https://asciinema.org/a/kKNH6seYF7YPQysW)

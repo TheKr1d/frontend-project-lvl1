@@ -3,7 +3,7 @@ import _ from 'lodash';
 import { engine } from '../../src/index.js';
 import { rounds } from '../config/game-settings.js';
 
-const isEvenStr = (num) => num % 2 === 0 ? 'yes' : 'no';
+const isEven = (num) => num % 2 === 0;
 
 const run = () => {
     const gameRules = 'Answer "yes" if the number is even, otherwise answer "no".'
@@ -13,7 +13,7 @@ const run = () => {
 
     while (i < rounds) {
         const randomNum = _.random(1, 99)
-        const correctAnswer = isEvenStr(randomNum)
+        const correctAnswer = isEven(randomNum) ? 'yes' : 'no';
 
         questionsAnswers.push([randomNum, correctAnswer])
         i += 1
